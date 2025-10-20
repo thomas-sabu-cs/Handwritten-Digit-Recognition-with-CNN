@@ -92,8 +92,8 @@ The CNN architecture used in this project is a sequential model consisting of:
 
 After training for [X] epochs, the model achieved the following performance on the test set:
 
-*   **Test Accuracy:** ~[Your Accuracy]% (e.g., 99.25%)
-*   **Test Loss:** ~[Your Loss Value] (e.g., 0.025)
+*   **Test Accuracy:** ~[98.93]%
+*   **Test Loss:** ~[0.0324]
 
 ### Training History
 
