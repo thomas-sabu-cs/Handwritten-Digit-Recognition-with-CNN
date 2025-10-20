@@ -90,31 +90,26 @@ The CNN architecture used in this project is a sequential model consisting of:
 
 ## Results
 
-After training for [X] epochs, the model achieved the following performance on the test set:
+After training for [5] epochs, the model achieved the following performance on the test set:
 
 *   **Test Accuracy:** ~[98.93]%
 *   **Test Loss:** ~[0.0324]
 
 ### Training History
 
-*(Include a screenshot of your training/validation accuracy and loss plot here. You can drag and drop images directly into the GitHub README editor or use markdown image syntax.)*
 
 ![Training History Plot](images/training_history.png)
-*Example: Replace with your actual plot*
+
 
 ### Confusion Matrix
 
-*(Include a screenshot of your confusion matrix here.)*
-
 ![Confusion Matrix](images/confusion_matrix.png)
-*Example: Replace with your actual plot*
+
 
 ### Sample Predictions
 
-*(Include a screenshot of your sample predictions plot here, showing correct and incorrect predictions.)*
-
 ![Sample Predictions](images/sample_predictions.png)
-*Example: Replace with your actual plot*
+
 
 ## Future Work / Improvements
 
